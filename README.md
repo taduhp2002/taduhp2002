@@ -79,7 +79,7 @@ I’m a **Software Technology** student at **DTM University** with a passion for
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=e2a0ff&center=true&vCenter=true&width=750&lines=%E2%80%8EThanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=80ffdb&center=true&vCenter=true&width=750&lines=%E2%80%8EThanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
 </p>
 
 ---
