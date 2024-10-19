@@ -94,7 +94,5 @@ I’m a **Software Technology** student at **DTM University** with a passion for
 
 
 
+![snake gif](https://github.com/taduhp2002/taduhp2002/blob/output/github-snake-dark.svg)
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
