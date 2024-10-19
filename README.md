@@ -38,10 +38,10 @@ I’m a **Software Technology** student at **DTM University** with a passion for
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=taduhp2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px" style="margin-right: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taduhp2002&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taduhp2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taduhp2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taduhp2002&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
 </p>
 
 ## 🏆 GitHub Trophies
