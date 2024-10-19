@@ -1,38 +1,76 @@
-# 👋 Hello, I'm Pham Phu Dat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
-### 💻 Software Technology Major | Web Developer | Problem Solver
-
-I’m currently studying at **DTM School**, majoring in **Software Technology**. I am passionate about developing robust, scalable, and user-friendly web applications. My focus is on full-stack development with a strong understanding of modern technologies and best practices.
-
----
-
-## 🛠️ **Skills & Technologies**
-
-- **Languages**:  
-  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-
-- **Frontend Development**:  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white) ![AJAX](https://img.shields.io/badge/-AJAX-5E5C5C?style=flat&logo=ajax&logoColor=white)
-
-- **Backend Development**:  
-  ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-4D4D4D?style=flat&logo=api&logoColor=white)
-
-- **Database & ORM**:  
-  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![Stored Procedures](https://img.shields.io/badge/-Stored%20Procedures-0078D4?style=flat&logo=microsoft&logoColor=white)
-
-- **Programming Principles**:  
-  ![OOP](https://img.shields.io/badge/-OOP-00599C?style=flat&logo=csharp&logoColor=white)
-
----
-
-## 📫 **Get in Touch**
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-
----
-
+<!-- Header animation with adjusted width -->
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Developer GIF">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=26A5DB&center=true&vCenter=true&width=750&lines=Hi+there+👋%2C+I'm+Pham+Phu+Dat;Software+Technology+Student;ASP.NEt+Developer;Tech+Enthusiast" alt="Typing SVG">
 </p>
 
-_Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate!_
+
+
+---
+
+## 💻 About Me
+
+<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
+
+I’m a **Software Technology** student at **DTM School** with a passion for **Full-Stack Web Development**. My focus is on building beautiful, responsive, and high-performance applications that provide a great user experience.
+
+💡 **I’m fascinated by technology**, and I’m always seeking to learn more, explore new technologies, and push the boundaries of what’s possible in web development.
+
+---
+
+## 🔧 Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,ajax,cs,aspnet,sql,git,github,azure" alt="Skills"/>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19e4d1e8f.gif" width="50">
+  <strong>Languages:</strong> C#, JavaScript, SQL <br/>
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19e4d1e8f.gif" width="50">
+  <strong>Frontend:</strong> HTML, CSS, Bootstrap, jQuery, AJAX <br/>
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19e4d1e8f.gif" width="50">
+  <strong>Backend:</strong> ASP.NET, REST API, SQL Server <br/>
+  <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19e4d1e8f.gif" width="50">
+  <strong>Principles:</strong> OOP, Clean Code <br/>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<!-- GitHub Stats with Custom Theme -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taduhp2002&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taduhp2002&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
+</p>
+
+---
+
+## 🔥 Streaks & Contributions
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=taduhp2002&theme=radical&hide_border=true" alt="GitHub Streak" width="500"/>
+</p>
+
+---
+
+
+
+## 📫 How to Reach Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif" width="400" alt="Thank You GIF">
+</p>
+
+---
+
+<p align="center"><em>Thanks for visiting my profile! Let’s create something amazing together!</em></p>
