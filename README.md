@@ -1,6 +1,6 @@
 <!-- Header animation with adjusted width -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=ef233c&center=true&vCenter=true&width=750&lines=Hi+there+👋%2C+I'm+Pham+Phu+Dat;Software+Technology+Student;ASP.NET+Developer;Tech+Enthusiast" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=f42b03&center=true&vCenter=true&width=750&lines=Hi+there👋%2C+I'm+Pham+Phu+Dat;Software+Technology+Student;ASP.NET+Developer;Tech+Enthusiast" alt="Typing SVG">
 </p>
 
 
@@ -79,7 +79,7 @@ I’m a **Software Technology** student at **DTM University** with a passion for
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=6fffe9&center=true&vCenter=true&width=750&lines=%E2%80%8EThanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=ccff33&center=true&vCenter=true&width=750&lines=%E2%80%8EThanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
 </p>
 
 ---
