@@ -81,18 +81,11 @@ I’m a **Software Technology** student at **DTM University** with a passion for
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=80ffdb&center=true&vCenter=true&width=750&lines=%E2%80%8EThanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
 </p>
 
----
-
+![snake gif](https://github.com/taduhp2002/taduhp2002/blob/output/github-snake-dark.svg) 
 <p align="center">
   <a href="https://visitcount.itsvg.in" target="_blank">
     <img src="https://visitcount.itsvg.in/api?id=taduhp2002&icon=0&color=12" alt="Visitor Count" style="height: 30px;"/>
   </a>
 </p>
 
-
-
-
-
-
-![snake gif](https://github.com/taduhp2002/taduhp2002/blob/output/github-snake-dark.svg)
 
