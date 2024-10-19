@@ -57,7 +57,7 @@ I’m a **Software Technology** student at **DTM University** with a passion for
 ---
 
 ## 🌐 Connect with me:
-<p  style="font-size: 1.2em;" align="center">
+<p style="font-size: 1.2em;" align="center">
   <a href="https://facebook.com/taduhp2002" target="_blank" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" height="30px">
   </a>
@@ -67,13 +67,12 @@ I’m a **Software Technology** student at **DTM University** with a passion for
   <a href="https://linkedin.com/in/taduhp2002" target="_blank" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30px">
   </a>
-  <a href="mailto:phamphudat2002@gmail.com" target="_blank" style="margin-right: 15px;">
+  <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=phamphudat2002@gmail.com" target="_blank" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30px">
   </a>
- <a href="[https://discord.com/users/your-discord-id](https://discord.com/users/746711373777600612)" target="_blank">
+  <a href="https://discord.com/users/746711373777600612" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="30px">
   </a>
-  
 </p>
 
 ---
