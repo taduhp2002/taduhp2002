@@ -1,21 +1,16 @@
+
+<!-- Animated Banner -->
 <div align="center">
-  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20To%20My%20Profile&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=33" width="100%" />
 </div>
-
-<!-- Header with multiple animations -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=40&duration=4000&pause=1000&color=22C4BC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Pham+Phu+Dat" alt="Typing SVG" />
-</h1>
-
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-<!-- Animated Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
-</div>
-
+<!-- Header with multiple animations -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=40&duration=4000&pause=1000&color=22C4BC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Pham+Phu+Dat" alt="Typing SVG" />
+</h1>
 <!-- Social Media Badges -->
 <div align="center">
   <a href="https://facebook.com/taduhp2002">
