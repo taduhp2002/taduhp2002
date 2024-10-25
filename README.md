@@ -95,3 +95,7 @@ Feel free to check out my projects and connect with me!
     <img src="https://visitcount.itsvg.in/api?id=taduhp2002&icon=0&color=12" alt="Visitor Count" style="height: 30px;"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" />
+</div>
