@@ -1,3 +1,47 @@
+<div align="center">
+  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+</div>
+
+<!-- Header with multiple animations -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=40&duration=4000&pause=1000&color=22C4BC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Pham+Phu+Dat" alt="Typing SVG" />
+</h1>
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+<!-- Animated Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+</div>
+
+<!-- Social Media Badges -->
+<div align="center">
+  <a href="https://facebook.com/taduhp2002">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://linkedin.com/in/taduhp2002">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_taduhp.02">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:phamphudat2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/746711373777600612">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</div>
+
+
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+
 <!-- Header animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=f42b03&center=true&vCenter=true&width=750&lines=Hi+there👋%2C+I'm+Pham+Phu+Dat;" alt="Typing SVG">
@@ -97,5 +141,5 @@ Feel free to check out my projects and connect with me!
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007a,100:00d4ff&height=100&section=footer&fontSize=90" />
 </div>
