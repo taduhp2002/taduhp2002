@@ -12,7 +12,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=40&duration=4000&pause=1000&color=22C4BC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Pham+Phu+Dat" alt="Typing SVG" />
 </div>
-
+<div align="center">
+  <img  src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
+</div>
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -23,7 +25,6 @@
 
 ## 💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300"/>
 
 Hello! I’m a **Software Technology** student at **DTM University** passionate about **Full-Stack Web Development**. I focus on creating elegant, high-performance applications with user experience in mind.
 
@@ -146,7 +147,10 @@ Feel free to check out my projects and connect with me!
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+
 <p align="center">
+  <img  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+  <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=80ffdb&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
 </p>
 <!-- Footer Banner -->
