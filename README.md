@@ -6,7 +6,7 @@
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
 </div>
 <!-- Header with multiple animations -->
 <div align="center">
@@ -17,7 +17,7 @@
 </div>
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
 </div>
 
 
@@ -35,7 +35,7 @@ Feel free to check out my projects and connect with me!
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
 </div>
 
 ## 💼 Tech Stack
@@ -60,7 +60,7 @@ Feel free to check out my projects and connect with me!
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
 </div>
 
 ## 📊 GitHub Stats
@@ -82,7 +82,7 @@ Feel free to check out my projects and connect with me!
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
 </div>
 
 <!-- Quote Section -->
@@ -93,7 +93,7 @@ Feel free to check out my projects and connect with me!
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
 </div>
 
 ## 🌐 Connect with Me
@@ -118,7 +118,7 @@ Feel free to check out my projects and connect with me!
 
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
 </div>
 
 <!-- Activity Graph -->
@@ -144,12 +144,12 @@ Feel free to check out my projects and connect with me!
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
 </div>
 
 
 <p align="center">
-  <img  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+  <img  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=80ffdb&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
 </p>
