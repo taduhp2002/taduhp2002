@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,80,150&height=130&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=33" width="100%" />
 </div>
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
@@ -26,6 +26,7 @@
 
 ## 💻 About Me
 
+<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="190"/>
 
 Hello! I’m a **Software Technology** student at **DTM University** passionate about **Full-Stack Web Development**. I focus on creating elegant, high-performance applications with user experience in mind.
 
@@ -125,7 +126,7 @@ Feel free to check out my projects and connect with me!
 <!-- Activity Graph -->
 <br/>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taduhp2002&bg_color=0d1117&color=00b3ff&line=1f6feb&point=00b3ff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=taduhp2002&theme=react-dark&hide_border=true&area=true" width="95%">
 </div>
 
 <!-- Snake Animation -->
