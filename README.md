@@ -41,6 +41,9 @@ Feel free to check out my projects and connect with me!
 </div>
 
 ## 💼 Tech Stack
+<div align="center">
+  <img align="center" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="130"/>
+</div>
 
 ### Languages & Frameworks
 <p align="center">
