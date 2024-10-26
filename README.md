@@ -79,11 +79,6 @@ Feel free to check out my projects and connect with me!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=taduhp2002&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taduhp2002&theme=onedark&no-frame=false&no-bg=true&margin-w=5" alt="GitHub Trophies"/>
-</p>
 
 <!-- Animated Divider -->
 <div align="center">
