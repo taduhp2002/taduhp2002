@@ -100,23 +100,24 @@ Feel free to check out my projects and connect with me!
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://facebook.com/taduhp2002" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/>
+<div align="center">
+  <a href="https://linkedin.com/in/taduhp2002">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90">
   </a>
-  <a href="https://instagram.com/_taduhp.02" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <a href="https://instagram.com/_taduhp.02">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="90">
   </a>
-  <a href="https://linkedin.com/in/taduhp2002" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://discord.com/users/746711373777600612">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="90">
   </a>
-  <a href="mailto:phamphudat2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:phamphudat2002@gmail.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="90">
   </a>
-  <a href="https://discord.com/users/746711373777600612" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="#">
+    <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="90">
   </a>
-</p>
+</div>
+
 
 <!-- Animated Divider -->
 <div align="center">
