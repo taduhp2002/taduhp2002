@@ -151,11 +151,15 @@ Feel free to check out my projects and connect with me!
 </div>
 
 
-<p align="center">
+<div align="center">
   <img  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=500&color=80ffdb&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
-</p>
+</div>
+<br>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&duration=3000&pause=500&color=35B6FC&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
+  </a>
+</div>
 <!-- Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=120&section=footer" width="100%" />
