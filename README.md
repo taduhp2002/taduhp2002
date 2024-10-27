@@ -11,7 +11,9 @@
 </div>
 <!-- Header with multiple animations -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=40&duration=4000&pause=1000&color=22C4BC&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B+I'm+Pham+Phu+Dat" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=40&pause=1000&color=35B6FC&center=true&vCenter=true&width=600&height=100&lines=Hi,+I'm+Pham+Phu+Dat+%F0%9F%8C%9F" alt="Typing SVG" />
+  </a>
 </div>
 <div align="center">
   <img  src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
