@@ -4,9 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,80,150&height=130&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=33" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-</div>
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <!-- Animated Divider -->
