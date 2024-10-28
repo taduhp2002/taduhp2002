@@ -7,7 +7,7 @@
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <!-- Animated Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 </div>
 <!-- Header with multiple animations -->
 <div align="center">
@@ -19,9 +19,7 @@
   <img  src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="300"/>
 </div>
 <!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
-</div>
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 
 <!-- Header animation -->
@@ -146,10 +144,7 @@ Feel free to check out my projects and connect with me!
   <img src="https://profile-counter.glitch.me/taduhp2002/count.svg" alt="Visitor Count" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
-</div>
-
+<img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
 <div align="center">
   <img  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
