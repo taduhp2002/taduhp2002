@@ -4,6 +4,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,80,150&height=130&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=33" width="100%" />
 </div>
 
+<!-- Animated Astronaut and Space Theme -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-portal-blue.gif" height="80px" width="80px">
+  <img src="https://user-images.githubusercontent.com/74038190/240885342-127d86c5-6326-45d0-e669-78c1d11b7602.gif" width="350px">
+  <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-portal-orange.gif" height="80px" width="80px">
+</div>
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <!-- Animated Divider -->
