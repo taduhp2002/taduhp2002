@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,80,150&height=130&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=33" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+</div>
+
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <!-- Animated Divider -->
 <div align="center">
@@ -26,7 +30,7 @@
 
 ## 💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="190"/>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="220" align="right">
 
 Hello! I’m a **Software Technology** student at **DTM University** passionate about **Full-Stack Web Development**. I focus on creating elegant, high-performance applications with user experience in mind.
 
