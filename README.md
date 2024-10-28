@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,80,150&height=130&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=33" width="100%" />
 </div>
 
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
 <!-- Animated Astronaut and Space Theme -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-portal-blue.gif" height="80px" width="80px">
@@ -11,7 +13,6 @@
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-portal-orange.gif" height="80px" width="80px">
 </div>
 
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
@@ -33,7 +34,7 @@
 
 ## 💻 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="220" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" align="right">
 
 Hello! I’m a **Software Technology** student at **DTM University** passionate about **Full-Stack Web Development**. I focus on creating elegant, high-performance applications with user experience in mind.
 
@@ -164,7 +165,11 @@ Feel free to check out my projects and connect with me!
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&duration=3000&pause=500&color=35B6FC&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
   </a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
+
+
+
 <!-- Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=120&section=footer" width="100%" />
