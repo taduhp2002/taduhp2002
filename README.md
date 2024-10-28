@@ -128,6 +128,9 @@ Feel free to check out my projects and connect with me!
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=taduhp2002&theme=react-dark&hide_border=true&area=true" width="95%">
 </div>
 
+<div align="center">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+</div>
 <!-- Snake Animation -->
 <div align="center">
   <picture>
