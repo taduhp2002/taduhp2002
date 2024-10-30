@@ -32,17 +32,25 @@
 
 <!-- Header animation -->
 
-## 💻 About Me
+## 🚀 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="200" align="right">
 
-Hello! I’m a **Software Technology** student at **DTM University** passionate about **Full-Stack Web Development**. I focus on creating elegant, high-performance applications with user experience in mind.
+> "Code is poetry in motion, and I'm the poet crafting digital solutions."
 
-- 💡 **Tech Enthusiast:** Always eager to explore new technologies and stay updated with the latest trends.
-- 🚀 **Driven by Creativity:** I enjoy solving complex problems and building solutions that matter.
+Hey there! 👋 I'm a passionate **Software Technology** student at **DTM University**, dedicated to pushing the boundaries of what's possible in technology. My journey revolves around Full-Stack Web Development, where I blend creativity with technical expertise.
 
-Feel free to check out my projects and connect with me!
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" align="right">
 
+### 🎯 What Drives Me
+- 🔍 Exploring cutting-edge technologies and frameworks
+- 💡 Solving complex problems with elegant solutions
+- 🌱 Continuous learning and growth
+- 🤝 Collaborating on innovative projects
+
+### 🎓 Currently
+- 📚 Deepening my knowledge in .NET ecosystem
+- 🛠️ Building robust web applications
+- 🔧 Mastering software architecture patterns
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
