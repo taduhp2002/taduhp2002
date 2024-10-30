@@ -39,7 +39,7 @@
 
 Hey there! 👋 I'm a passionate **Software Technology** student at **DTM University**, dedicated to pushing the boundaries of what's possible in technology. My journey revolves around Full-Stack Web Development, where I blend creativity with technical expertise.
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" align="right">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="280" align="right">
 
 ### 🎯 What Drives Me
 - 🔍 Exploring cutting-edge technologies and frameworks
