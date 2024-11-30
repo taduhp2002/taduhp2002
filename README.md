@@ -177,7 +177,6 @@ Hey there! 👋 I'm a passionate **Software Technology** student at **DTM Univer
 </div>
 
 
-
 <!-- Footer Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2ecc71&height=120&section=footer" width="100%" />
