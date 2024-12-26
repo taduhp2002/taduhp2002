@@ -118,9 +118,6 @@ Hey there! 👋 I'm a passionate **Software Technology** student at **DTM Univer
   <a href="https://linkedin.com/in/taduhp2002">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90">
   </a>
-  <a href="https://instagram.com/_taduhp.02">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="90">
-  </a>
   <a href="https://discord.com/users/746711373777600612">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="90">
   </a>
