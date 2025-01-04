@@ -4,8 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,80,150&height=130&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=33" width="100%" />
 </div> 
 
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
-
 <!-- Animated Astronaut and Space Theme -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/parrots/parrot-portal-blue.gif" height="80px" width="80px">
@@ -77,25 +75,6 @@ Hey there! 👋 I'm a passionate **Software Technology** student at **DTM Univer
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
 </p>
 
-
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
-</div>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taduhp2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taduhp2002&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taduhp2002&theme=radical&hide_border=false" alt="GitHub Streak" height="180px"/>
-</p>
-
-
 <!-- Animated Divider -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  width="100%">
@@ -151,13 +130,6 @@ Hey there! 👋 I'm a passionate **Software Technology** student at **DTM Univer
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/taduhp2002/taduhp2002/blob/output/github-snake.svg" />
     <img alt="github-snake" src="https://github.com/taduhp2002/taduhp2002/blob/output/github-snake-dark.svg" />
   </picture>
-</div>
-
-<!-- Profile Views Counter -->
-<div align="center">
-  <br/>
-  <p>👀 Profile Views</p>
-  <img src="https://profile-counter.glitch.me/taduhp2002/count.svg" alt="Visitor Count" />
 </div>
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
