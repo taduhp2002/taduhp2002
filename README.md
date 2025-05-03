@@ -139,9 +139,7 @@ Hey there! 👋 I'm a passionate **Software Technology** student at **DTM Univer
 </div>
 <br>
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=30&duration=3000&pause=500&color=35B6FC&center=true&vCenter=true&width=750&lines=Thanks+for+visiting+my+profile!;Let’s+create+something+amazing+together!" alt="Typing SVG">
-  </a>
+
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
