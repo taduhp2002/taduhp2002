@@ -124,13 +124,7 @@ Hey there! 👋 I'm a passionate **Software Technology** student at **DTM Univer
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
 </div>
 <!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/taduhp2002/taduhp2002/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/taduhp2002/taduhp2002/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/taduhp2002/taduhp2002/blob/output/github-snake-dark.svg" />
-  </picture>
-</div>
+
 
 <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 
